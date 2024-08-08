@@ -17,7 +17,7 @@
 
  ## Projects
  
-  1. Bacterial (M. tuberculosis) gene expression preprocessing with containerised pipelines (in progress)
+  1. Bacterial (M. tuberculosis) gene expression preprocessing with pipelines (in progress)
 
 ## Contact
 

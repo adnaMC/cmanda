@@ -1,6 +1,6 @@
 ## About me
 
-  Hello! I'm Chipo, a Bioinformatics MSc student at Stellenbosch University.
+  Hello! I'm Chipo Manda, a Bioinformatics MSc student at Stellenbosch University.
   I'm new to the world of coding but I'm passionate about learning and excited to explore the possibilities of Bioinformatics.
   With a background in Biomedical sciences, I'm captivated by the fusion of biology and code. 
   My current project focuses on optimizing pipelines for Mycobacterium Tuberculosis research. 
